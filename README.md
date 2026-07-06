@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ujwalchitra/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [3834-merge-adjacent-equal-elements](https://github.com/ujwalchitra/leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Stack
 |  |
 | ------- |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ujwalchitra/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ujwalchitra/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [3834-merge-adjacent-equal-elements](https://github.com/ujwalchitra/leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -18,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ujwalchitra/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+## Simulation
+|  |
+| ------- |
+| [3834-merge-adjacent-equal-elements](https://github.com/ujwalchitra/leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 <!---LeetCode Topics End-->

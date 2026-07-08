@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/ujwalchitra/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ujwalchitra/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ujwalchitra/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ujwalchitra/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3834-merge-adjacent-equal-elements](https://github.com/ujwalchitra/leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Stack
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/ujwalchitra/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3174-clear-digits](https://github.com/ujwalchitra/leetcode/tree/master/3174-clear-digits) |
 | [3834-merge-adjacent-equal-elements](https://github.com/ujwalchitra/leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Hash Table
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2785-sort-vowels-in-a-string](https://github.com/ujwalchitra/leetcode/tree/master/2785-sort-vowels-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/ujwalchitra/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->

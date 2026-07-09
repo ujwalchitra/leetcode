@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ujwalchitra/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ujwalchitra/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ujwalchitra/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ujwalchitra/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3834-merge-adjacent-equal-elements](https://github.com/ujwalchitra/leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Stack
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ujwalchitra/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ujwalchitra/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
 | ------- |
@@ -70,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/ujwalchitra/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ujwalchitra/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ujwalchitra/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ujwalchitra/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->

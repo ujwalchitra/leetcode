@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ujwalchitra/leetcode/tree/master/0206-reverse-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ujwalchitra/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Depth-First Search
 |  |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ujwalchitra/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ujwalchitra/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

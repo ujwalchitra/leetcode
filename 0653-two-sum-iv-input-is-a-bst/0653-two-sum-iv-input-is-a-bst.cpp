@@ -12,28 +12,26 @@
  */
 class Solution {
 public:
-    void find(TreeNode* root, vector<int>& v) {
+    void find(TreeNode* root, unordered_map<int, int>& v) {
         if (root == NULL) {
             return;
         }
-        v.push_back(root->val);
+        v[root->val]++;
         find(root->left, v);
         find(root->right, v);
     }
     bool findTarget(TreeNode* root, int k) {
-        vector<int> v;
+        unordered_map<int, int> v;
         find(root, v);
-        sort(v.begin(), v.end());
-        int left = 0;
-        int right = v.size() - 1;
-        while (left < right) {
-            if (v[left] + v[right] == k) {
+        if(v.size()<=1){
+            return false;
+        }
+        for (auto const& pair : v) {
+            int a = k - pair.first;
+            if (v.count(a)) {
+                if(a!=pair.first||v[a]>1){
                 return true;
-                break;
-            } else if (v[left] + v[right] > k) {
-                right--;
-            } else if (v[left] + v[right] < k) {
-                left++;
+                break;}
             }
         }
         return false;

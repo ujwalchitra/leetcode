@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ujwalchitra/leetcode/tree/master/0070-climbing-stairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ujwalchitra/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ujwalchitra/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/ujwalchitra/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ujwalchitra/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ujwalchitra/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Linked List
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ujwalchitra/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ujwalchitra/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2785-sort-vowels-in-a-string](https://github.com/ujwalchitra/leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/ujwalchitra/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Queue
 |  |
 | ------- |

@@ -15,13 +15,16 @@ public:
         if(root==NULL){
             return;
         }
-        ans=max(ans,a);
-        depth(root->left,a+1,ans);
-         depth(root->right,a+1,ans);
+        a++;
+        if(root->left==NULL&&root->right==NULL){
+            ans=max(ans,a);
+        }
+        depth(root->left,a,ans);
+         depth(root->right,a,ans);
     }
     int maxDepth(TreeNode* root) {
         int ans=0;
-        int a=1;
+        int a=0;
         depth(root,a,ans);
         return ans;
     }

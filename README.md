@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ujwalchitra/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/ujwalchitra/leetcode/tree/master/0402-remove-k-digits) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ujwalchitra/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ujwalchitra/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ujwalchitra/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ujwalchitra/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3174-clear-digits](https://github.com/ujwalchitra/leetcode/tree/master/3174-clear-digits) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/ujwalchitra/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ujwalchitra/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ujwalchitra/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ujwalchitra/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ujwalchitra/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2785-sort-vowels-in-a-string](https://github.com/ujwalchitra/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3174-clear-digits](https://github.com/ujwalchitra/leetcode/tree/master/3174-clear-digits) |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ujwalchitra/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ujwalchitra/leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/ujwalchitra/leetcode/tree/master/0053-maximum-subarray) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ujwalchitra/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/ujwalchitra/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ujwalchitra/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ujwalchitra/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ujwalchitra/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/ujwalchitra/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ujwalchitra/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ujwalchitra/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ujwalchitra/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ujwalchitra/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ujwalchitra/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/ujwalchitra/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ujwalchitra/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/ujwalchitra/leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ujwalchitra/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ujwalchitra/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Greedy
 |  |

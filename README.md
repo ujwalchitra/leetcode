@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ujwalchitra/leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ujwalchitra/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/ujwalchitra/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/ujwalchitra/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ujwalchitra/leetcode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/ujwalchitra/leetcode/tree/master/0877-stone-game) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ujwalchitra/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/ujwalchitra/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujwalchitra/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ujwalchitra/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ujwalchitra/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ujwalchitra/leetcode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/ujwalchitra/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/ujwalchitra/leetcode/tree/master/0841-keys-and-rooms) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/ujwalchitra/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ujwalchitra/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/ujwalchitra/leetcode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ujwalchitra/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ujwalchitra/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/ujwalchitra/leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ujwalchitra/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/ujwalchitra/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ujwalchitra/leetcode/tree/master/0733-flood-fill) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ujwalchitra/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Greedy
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ujwalchitra/leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ujwalchitra/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujwalchitra/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/ujwalchitra/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ujwalchitra/leetcode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/ujwalchitra/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/ujwalchitra/leetcode/tree/master/0841-keys-and-rooms) |

@@ -1,17 +1,23 @@
 class Solution {
 public:
-    bool dfs(int node,int target,vector<vector<int>>& adj,vector<int> &vis){
+    bool bfs(int node,int target,vector<vector<int>>& adj,vector<int> &vis){
          vis[node]=1;
-         for(auto it:adj[node]){
-            if(vis[it]==0 ){
-                dfs(it,target,adj,vis);
+         queue<int>q;
+         q.push(node);
+         while(!q.empty()){
+            int a=q.front();
+            q.pop();
+            vis[a]=1;
+            for(auto it:adj[a]){
+                if(vis[it]==0){
+                q.push(it);
+                vis[it]=1;}
             }
          }
          if(vis[target]==1){
             return true;
-         }else{
-            return false;
          }
+         return false;
     }
     bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
         vector<int> vis(n,0);
@@ -20,7 +26,7 @@ public:
             adj[e[0]].push_back(e[1]);
             adj[e[1]].push_back(e[0]);
         }
-        return dfs(source,destination,adj,vis);
+        return bfs(source,destination,adj,vis);
 
     }
 };

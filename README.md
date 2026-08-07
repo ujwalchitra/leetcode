@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/ujwalchitra/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ujwalchitra/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/ujwalchitra/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1765-map-of-highest-peak](https://github.com/ujwalchitra/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ujwalchitra/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ujwalchitra/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ujwalchitra/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ujwalchitra/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ujwalchitra/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ujwalchitra/leetcode/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/ujwalchitra/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ujwalchitra/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ujwalchitra/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Greedy
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/ujwalchitra/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/ujwalchitra/leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/ujwalchitra/leetcode/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/ujwalchitra/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ujwalchitra/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ujwalchitra/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree

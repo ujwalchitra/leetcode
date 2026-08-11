@@ -1,19 +1,22 @@
 class Solution {
 public:
-    int a(int n,vector<int>&dp){
-        if(n==0||n==1){
+    int dpp(vector<int>& dp, int n) {
+        if (n == 0) {
             return 1;
         }
-        if(dp[n-1]!=-1){
+        if (n == 1) {
+            return 1;
+        }
+        if (dp[n] != -1) {
             return dp[n];
         }
-        int left=a(n-1,dp);
-        int right=a(n-2,dp);
-        return dp[n]=left+right;
+        int left = dpp(dp, n - 1);
+        int right = dpp(dp, n - 2);
+        dp[n]=left+right;
+        return dp[n];
     }
     int climbStairs(int n) {
-        vector<int>dp(n+1,-1);
-
-        return a(n,dp);
+        vector<int> dp(n + 1, -1);
+        return dpp(dp, n);
     }
 };

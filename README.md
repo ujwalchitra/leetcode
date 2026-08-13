@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ujwalchitra/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ujwalchitra/leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/ujwalchitra/leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/ujwalchitra/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/ujwalchitra/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ujwalchitra/leetcode/tree/master/0200-number-of-islands) |
 | [0334-increasing-triplet-subsequence](https://github.com/ujwalchitra/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ujwalchitra/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ujwalchitra/leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/ujwalchitra/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ujwalchitra/leetcode/tree/master/0141-linked-list-cycle) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujwalchitra/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/ujwalchitra/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ujwalchitra/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/ujwalchitra/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ujwalchitra/leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ujwalchitra/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |

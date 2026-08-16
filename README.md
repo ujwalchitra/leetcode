@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/ujwalchitra/leetcode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/ujwalchitra/leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/ujwalchitra/leetcode/tree/master/0542-01-matrix) |
+| [0682-baseball-game](https://github.com/ujwalchitra/leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/ujwalchitra/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/ujwalchitra/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ujwalchitra/leetcode/tree/master/0733-flood-fill) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ujwalchitra/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/ujwalchitra/leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/ujwalchitra/leetcode/tree/master/0456-132-pattern) |
+| [0682-baseball-game](https://github.com/ujwalchitra/leetcode/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ujwalchitra/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ujwalchitra/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ujwalchitra/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ujwalchitra/leetcode/tree/master/0682-baseball-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ujwalchitra/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ujwalchitra/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ujwalchitra/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |

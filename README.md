@@ -439,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ujwalchitra/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ujwalchitra/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

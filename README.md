@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ujwalchitra/leetcode/tree/master/0682-baseball-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/ujwalchitra/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ujwalchitra/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ujwalchitra/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ujwalchitra/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ujwalchitra/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ujwalchitra/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ujwalchitra/leetcode/tree/master/0877-stone-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/ujwalchitra/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1922-count-good-numbers](https://github.com/ujwalchitra/leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ujwalchitra/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/ujwalchitra/leetcode/tree/master/2652-sum-multiples) |

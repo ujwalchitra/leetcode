@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ujwalchitra/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2785-sort-vowels-in-a-string](https://github.com/ujwalchitra/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3174-clear-digits](https://github.com/ujwalchitra/leetcode/tree/master/3174-clear-digits) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ujwalchitra/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3340-check-balanced-string](https://github.com/ujwalchitra/leetcode/tree/master/3340-check-balanced-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ujwalchitra/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ujwalchitra/leetcode/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/ujwalchitra/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ujwalchitra/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ujwalchitra/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Counting Sort
 |  |
 | ------- |
@@ -473,4 +475,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ujwalchitra/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ujwalchitra/leetcode/tree/master/0090-subsets-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ujwalchitra/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->

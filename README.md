@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ujwalchitra/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/ujwalchitra/leetcode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/ujwalchitra/leetcode/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/ujwalchitra/leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/ujwalchitra/leetcode/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/ujwalchitra/leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/ujwalchitra/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ujwalchitra/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ujwalchitra/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ujwalchitra/leetcode/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/ujwalchitra/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ujwalchitra/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/ujwalchitra/leetcode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/ujwalchitra/leetcode/tree/master/0877-stone-game) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/ujwalchitra/leetcode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/ujwalchitra/leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/ujwalchitra/leetcode/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/ujwalchitra/leetcode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/ujwalchitra/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ujwalchitra/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ujwalchitra/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -478,4 +481,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ujwalchitra/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ujwalchitra/leetcode/tree/master/0090-subsets-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ujwalchitra/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ujwalchitra/leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ujwalchitra/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

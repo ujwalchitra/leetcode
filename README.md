@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ujwalchitra/leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/ujwalchitra/leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/ujwalchitra/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ujwalchitra/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ujwalchitra/leetcode/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/ujwalchitra/leetcode/tree/master/0670-maximum-swap) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ujwalchitra/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ujwalchitra/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/ujwalchitra/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ujwalchitra/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ujwalchitra/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ujwalchitra/leetcode/tree/master/0198-house-robber) |
@@ -499,4 +501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ujwalchitra/leetcode/tree/master/0494-target-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ujwalchitra/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

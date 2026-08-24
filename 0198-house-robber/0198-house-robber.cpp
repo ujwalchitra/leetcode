@@ -1,25 +1,20 @@
 class Solution {
 public:
-    int dk(vector<int>& dp, vector<int>& nums, int n) {
-        if (n < 0) {
+    int rob(vector<int>& nums) {
+        int i=0;
+        vector<int>dp(nums.size(),-1);
+        return solve(i,dp,nums);
+    }
+    int solve(int i, vector<int>&dp,vector<int>& nums){
+        if(i>=nums.size()){
             return 0;
         }
-
-        if (dp[n] != -1) {
-            return dp[n];
+        if(dp[i]!=-1){
+            return dp[i];       
         }
-
-        int take = nums[n] + dk(dp, nums, n - 2);
-        int skip = dk(dp, nums, n - 1);
-
-        return dp[n] = max(take, skip);
-    }
-
-    int rob(vector<int>& nums) {
-        int n = nums.size();
-
-        vector<int> dp(n, -1);
-
-        return dk(dp, nums, n - 1);
+        int a=nums[i]+solve(i+2,dp,nums);
+        int b=solve(i+1,dp,nums);
+        dp[i]=max(a,b);
+        return dp[i];
     }
 };

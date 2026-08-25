@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ujwalchitra/leetcode/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/ujwalchitra/leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/ujwalchitra/leetcode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/ujwalchitra/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/ujwalchitra/leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/ujwalchitra/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/ujwalchitra/leetcode/tree/master/0695-max-area-of-island) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ujwalchitra/leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/ujwalchitra/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ujwalchitra/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/ujwalchitra/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujwalchitra/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/ujwalchitra/leetcode/tree/master/0692-top-k-frequent-words) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ujwalchitra/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ujwalchitra/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ujwalchitra/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/ujwalchitra/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Heap (Priority Queue)
 |  |

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ujwalchitra/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ujwalchitra/leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/ujwalchitra/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/ujwalchitra/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ujwalchitra/leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/ujwalchitra/leetcode/tree/master/0896-monotonic-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ujwalchitra/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ujwalchitra/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/ujwalchitra/leetcode/tree/master/0456-132-pattern) |
+| [0875-koko-eating-bananas](https://github.com/ujwalchitra/leetcode/tree/master/0875-koko-eating-bananas) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ujwalchitra/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |

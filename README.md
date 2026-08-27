@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ujwalchitra/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ujwalchitra/leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ujwalchitra/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ujwalchitra/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ujwalchitra/leetcode/tree/master/3731-find-missing-elements) |
 | [3834-merge-adjacent-equal-elements](https://github.com/ujwalchitra/leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Stack
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/ujwalchitra/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ujwalchitra/leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ujwalchitra/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ujwalchitra/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ujwalchitra/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |

@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ujwalchitra/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ujwalchitra/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ujwalchitra/leetcode/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/ujwalchitra/leetcode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/ujwalchitra/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ujwalchitra/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ujwalchitra/leetcode/tree/master/0213-house-robber-ii) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ujwalchitra/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ujwalchitra/leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ujwalchitra/leetcode/tree/master/0136-single-number) |
 | [0980-unique-paths-iii](https://github.com/ujwalchitra/leetcode/tree/master/0980-unique-paths-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ujwalchitra/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Knapsack Problem

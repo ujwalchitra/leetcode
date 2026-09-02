@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/ujwalchitra/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ujwalchitra/leetcode/tree/master/3731-find-missing-elements) |
 | [3834-merge-adjacent-equal-elements](https://github.com/ujwalchitra/leetcode/tree/master/3834-merge-adjacent-equal-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ujwalchitra/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ujwalchitra/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ujwalchitra/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3765-complete-prime-number](https://github.com/ujwalchitra/leetcode/tree/master/3765-complete-prime-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ujwalchitra/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Linked List
 |  |
 | ------- |

@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/ujwalchitra/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/ujwalchitra/leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2233-maximum-product-after-k-increments](https://github.com/ujwalchitra/leetcode/tree/master/2233-maximum-product-after-k-increments) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/ujwalchitra/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ujwalchitra/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ujwalchitra/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ujwalchitra/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/ujwalchitra/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ujwalchitra/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ujwalchitra/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/ujwalchitra/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2785-sort-vowels-in-a-string](https://github.com/ujwalchitra/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3174-clear-digits](https://github.com/ujwalchitra/leetcode/tree/master/3174-clear-digits) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ujwalchitra/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ujwalchitra/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujwalchitra/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/ujwalchitra/leetcode/tree/master/0692-top-k-frequent-words) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/ujwalchitra/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ujwalchitra/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ujwalchitra/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ujwalchitra/leetcode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ujwalchitra/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ujwalchitra/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ujwalchitra/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/ujwalchitra/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ujwalchitra/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ujwalchitra/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ujwalchitra/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |

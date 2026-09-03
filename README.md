@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ujwalchitra/leetcode/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ujwalchitra/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/ujwalchitra/leetcode/tree/master/1020-number-of-enclaves) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ujwalchitra/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ujwalchitra/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/ujwalchitra/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ujwalchitra/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ujwalchitra/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/ujwalchitra/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ujwalchitra/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ujwalchitra/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ujwalchitra/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ujwalchitra/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ujwalchitra/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/ujwalchitra/leetcode/tree/master/0670-maximum-swap) |
 | [0877-stone-game](https://github.com/ujwalchitra/leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ujwalchitra/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ujwalchitra/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/ujwalchitra/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1922-count-good-numbers](https://github.com/ujwalchitra/leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ujwalchitra/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ujwalchitra/leetcode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/ujwalchitra/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ujwalchitra/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ujwalchitra/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/ujwalchitra/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ujwalchitra/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Heap (Priority Queue)
@@ -597,4 +601,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/ujwalchitra/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ujwalchitra/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->

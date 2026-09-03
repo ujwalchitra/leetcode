@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ujwalchitra/leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/ujwalchitra/leetcode/tree/master/0896-monotonic-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ujwalchitra/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ujwalchitra/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0980-unique-paths-iii](https://github.com/ujwalchitra/leetcode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/ujwalchitra/leetcode/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ujwalchitra/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ujwalchitra/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujwalchitra/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/ujwalchitra/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ujwalchitra/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ujwalchitra/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ujwalchitra/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ujwalchitra/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/ujwalchitra/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ujwalchitra/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ujwalchitra/leetcode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ujwalchitra/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/ujwalchitra/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ujwalchitra/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Heap (Priority Queue)

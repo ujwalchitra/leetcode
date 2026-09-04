@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ujwalchitra/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ujwalchitra/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/ujwalchitra/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ujwalchitra/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ujwalchitra/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ujwalchitra/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/ujwalchitra/leetcode/tree/master/0063-unique-paths-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ujwalchitra/leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/ujwalchitra/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ujwalchitra/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ujwalchitra/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ujwalchitra/leetcode/tree/master/0070-climbing-stairs) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ujwalchitra/leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/ujwalchitra/leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/ujwalchitra/leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ujwalchitra/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ujwalchitra/leetcode/tree/master/0079-word-search) |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ujwalchitra/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ujwalchitra/leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/ujwalchitra/leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ujwalchitra/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ujwalchitra/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ujwalchitra/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ujwalchitra/leetcode/tree/master/0040-combination-sum-ii) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ujwalchitra/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ujwalchitra/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/ujwalchitra/leetcode/tree/master/0456-132-pattern) |
 | [0875-koko-eating-bananas](https://github.com/ujwalchitra/leetcode/tree/master/0875-koko-eating-bananas) |

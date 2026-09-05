@@ -10,7 +10,7 @@ public:
                 b.push_back(nums[i]);
             }
         }
-        vector<int> ans(nums.size(), 0);
+    
         int j = 0;
         for (int i = 0; i < nums.size(); i = i + 2) {
             nums[i] = a[j++];

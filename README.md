@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/ujwalchitra/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ujwalchitra/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2236-root-equals-sum-of-children](https://github.com/ujwalchitra/leetcode/tree/master/2236-root-equals-sum-of-children) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ujwalchitra/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
 | ------- |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/ujwalchitra/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ujwalchitra/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2236-root-equals-sum-of-children](https://github.com/ujwalchitra/leetcode/tree/master/2236-root-equals-sum-of-children) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ujwalchitra/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/ujwalchitra/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ujwalchitra/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ujwalchitra/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ujwalchitra/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Search Tree
 |  |
 | ------- |

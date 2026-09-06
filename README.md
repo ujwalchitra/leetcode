@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ujwalchitra/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ujwalchitra/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/ujwalchitra/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/ujwalchitra/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ujwalchitra/leetcode/tree/master/0020-valid-parentheses) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ujwalchitra/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/ujwalchitra/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/ujwalchitra/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ujwalchitra/leetcode/tree/master/0141-linked-list-cycle) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ujwalchitra/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ujwalchitra/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ujwalchitra/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ujwalchitra/leetcode/tree/master/0062-unique-paths) |
@@ -652,4 +655,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/ujwalchitra/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ujwalchitra/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ujwalchitra/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ujwalchitra/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

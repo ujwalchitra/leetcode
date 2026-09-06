@@ -27,10 +27,10 @@ public:
                 TreeNode* curr = q.front();
                 q.pop();
                 v.push_back(curr->val);
-                if (curr->left != NULL) {
+                if (curr->left) {
                     q.push(curr->left);
                 }
-                if (curr->right != NULL) {
+                if (curr->right) {
                     q.push(curr->right);
                 }
             }

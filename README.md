@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ujwalchitra/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ujwalchitra/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2785-sort-vowels-in-a-string](https://github.com/ujwalchitra/leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ujwalchitra/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3174-clear-digits](https://github.com/ujwalchitra/leetcode/tree/master/3174-clear-digits) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ujwalchitra/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3340-check-balanced-string](https://github.com/ujwalchitra/leetcode/tree/master/3340-check-balanced-string) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ujwalchitra/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ujwalchitra/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2652-sum-multiples](https://github.com/ujwalchitra/leetcode/tree/master/2652-sum-multiples) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ujwalchitra/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ujwalchitra/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ujwalchitra/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ujwalchitra/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ujwalchitra/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ujwalchitra/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ujwalchitra/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ujwalchitra/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 ## Recursion
 |  |
 | ------- |

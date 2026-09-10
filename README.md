@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ujwalchitra/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ujwalchitra/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ujwalchitra/leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/ujwalchitra/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ujwalchitra/leetcode/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/ujwalchitra/leetcode/tree/master/0670-maximum-swap) |
 | [0877-stone-game](https://github.com/ujwalchitra/leetcode/tree/master/0877-stone-game) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/ujwalchitra/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ujwalchitra/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ujwalchitra/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ujwalchitra/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ujwalchitra/leetcode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/ujwalchitra/leetcode/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ujwalchitra/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ujwalchitra/leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ujwalchitra/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/ujwalchitra/leetcode/tree/master/0231-power-of-two) |
 | [0980-unique-paths-iii](https://github.com/ujwalchitra/leetcode/tree/master/0980-unique-paths-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ujwalchitra/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Knapsack Problem

@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ujwalchitra/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ujwalchitra/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ujwalchitra/leetcode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/ujwalchitra/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/ujwalchitra/leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/ujwalchitra/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ujwalchitra/leetcode/tree/master/0257-binary-tree-paths) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ujwalchitra/leetcode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/ujwalchitra/leetcode/tree/master/0682-baseball-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/ujwalchitra/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ujwalchitra/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ujwalchitra/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ujwalchitra/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ujwalchitra/leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/ujwalchitra/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ujwalchitra/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ujwalchitra/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ujwalchitra/leetcode/tree/master/0509-fibonacci-number) |
@@ -652,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ujwalchitra/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/ujwalchitra/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ujwalchitra/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ujwalchitra/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ujwalchitra/leetcode/tree/master/0136-single-number) |

@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ujwalchitra/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/ujwalchitra/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ujwalchitra/leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/ujwalchitra/leetcode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/ujwalchitra/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/ujwalchitra/leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/ujwalchitra/leetcode/tree/master/0541-reverse-string-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ujwalchitra/leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/ujwalchitra/leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/ujwalchitra/leetcode/tree/master/0682-baseball-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/ujwalchitra/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ujwalchitra/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ujwalchitra/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ujwalchitra/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/ujwalchitra/leetcode/tree/master/0231-power-of-two) |
+| [0415-add-strings](https://github.com/ujwalchitra/leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/ujwalchitra/leetcode/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/ujwalchitra/leetcode/tree/master/0670-maximum-swap) |
 | [0877-stone-game](https://github.com/ujwalchitra/leetcode/tree/master/0877-stone-game) |

@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ujwalchitra/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ujwalchitra/leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/ujwalchitra/leetcode/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/ujwalchitra/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/ujwalchitra/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ujwalchitra/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ujwalchitra/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ujwalchitra/leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujwalchitra/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/ujwalchitra/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0905-sort-array-by-parity](https://github.com/ujwalchitra/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ujwalchitra/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ujwalchitra/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ujwalchitra/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/ujwalchitra/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/ujwalchitra/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0905-sort-array-by-parity](https://github.com/ujwalchitra/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ujwalchitra/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ujwalchitra/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ujwalchitra/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |

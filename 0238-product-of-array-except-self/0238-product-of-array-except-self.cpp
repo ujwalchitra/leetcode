@@ -13,12 +13,10 @@ public:
         int s = 1;
         for (int i = nums.size()-1; i >=0; i--) {
             b = nums[i];
-            nums[i] = s;
+            nums[i] = s*v[i];
             s = s * b;
         }
-        for(int i=0;i<nums.size();i++){
-            nums[i]=nums[i]*v[i];
-        }
+
         return nums;
     }
 };

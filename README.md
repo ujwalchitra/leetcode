@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ujwalchitra/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ujwalchitra/leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/ujwalchitra/leetcode/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/ujwalchitra/leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/ujwalchitra/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/ujwalchitra/leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/ujwalchitra/leetcode/tree/master/0541-reverse-string-ii) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ujwalchitra/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ujwalchitra/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ujwalchitra/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/ujwalchitra/leetcode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/ujwalchitra/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ujwalchitra/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/ujwalchitra/leetcode/tree/master/0567-permutation-in-string) |

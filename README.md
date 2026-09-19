@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ujwalchitra/leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/ujwalchitra/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/ujwalchitra/leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/ujwalchitra/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ujwalchitra/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ujwalchitra/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ujwalchitra/leetcode/tree/master/0257-binary-tree-paths) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ujwalchitra/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/ujwalchitra/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/ujwalchitra/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ujwalchitra/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ujwalchitra/leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ujwalchitra/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ujwalchitra/leetcode/tree/master/0283-move-zeroes) |

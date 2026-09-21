@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ujwalchitra/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ujwalchitra/leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/ujwalchitra/leetcode/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/ujwalchitra/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ujwalchitra/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/ujwalchitra/leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/ujwalchitra/leetcode/tree/master/0283-move-zeroes) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ujwalchitra/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ujwalchitra/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ujwalchitra/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ujwalchitra/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ujwalchitra/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ujwalchitra/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/ujwalchitra/leetcode/tree/master/0409-longest-palindrome) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ujwalchitra/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ujwalchitra/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ujwalchitra/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ujwalchitra/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ujwalchitra/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ujwalchitra/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ujwalchitra/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |

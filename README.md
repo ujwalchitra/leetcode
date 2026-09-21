@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/ujwalchitra/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ujwalchitra/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/ujwalchitra/leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ujwalchitra/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2233-maximum-product-after-k-increments](https://github.com/ujwalchitra/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ujwalchitra/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ujwalchitra/leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ujwalchitra/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ujwalchitra/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ujwalchitra/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ujwalchitra/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ujwalchitra/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ujwalchitra/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ujwalchitra/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |

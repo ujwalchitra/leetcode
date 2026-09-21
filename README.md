@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/ujwalchitra/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ujwalchitra/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ujwalchitra/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1768-merge-strings-alternately](https://github.com/ujwalchitra/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ujwalchitra/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2785-sort-vowels-in-a-string](https://github.com/ujwalchitra/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/ujwalchitra/leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujwalchitra/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/ujwalchitra/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/ujwalchitra/leetcode/tree/master/0905-sort-array-by-parity) |
+| [1768-merge-strings-alternately](https://github.com/ujwalchitra/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ujwalchitra/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ujwalchitra/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting

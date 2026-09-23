@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/ujwalchitra/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/ujwalchitra/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/ujwalchitra/leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ujwalchitra/leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ujwalchitra/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ujwalchitra/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ujwalchitra/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ujwalchitra/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/ujwalchitra/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ujwalchitra/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ujwalchitra/leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3903-smallest-stable-index-i](https://github.com/ujwalchitra/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ujwalchitra/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Heap (Priority Queue)

@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ujwalchitra/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/ujwalchitra/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ujwalchitra/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/ujwalchitra/leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/ujwalchitra/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ujwalchitra/leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/ujwalchitra/leetcode/tree/master/0415-add-strings) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ujwalchitra/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ujwalchitra/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ujwalchitra/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/ujwalchitra/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ujwalchitra/leetcode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/ujwalchitra/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ujwalchitra/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ujwalchitra/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ujwalchitra/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ujwalchitra/leetcode/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/ujwalchitra/leetcode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/ujwalchitra/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ujwalchitra/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/ujwalchitra/leetcode/tree/master/0542-01-matrix) |

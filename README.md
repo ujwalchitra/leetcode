@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ujwalchitra/leetcode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/ujwalchitra/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ujwalchitra/leetcode/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/ujwalchitra/leetcode/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/ujwalchitra/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/ujwalchitra/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ujwalchitra/leetcode/tree/master/0877-stone-game) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ujwalchitra/leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/ujwalchitra/leetcode/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/ujwalchitra/leetcode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/ujwalchitra/leetcode/tree/master/0735-asteroid-collision) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ujwalchitra/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ujwalchitra/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ujwalchitra/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ujwalchitra/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/ujwalchitra/leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/ujwalchitra/leetcode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/ujwalchitra/leetcode/tree/master/0735-asteroid-collision) |
 | [1688-count-of-matches-in-tournament](https://github.com/ujwalchitra/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ujwalchitra/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ujwalchitra/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |

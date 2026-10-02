@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ujwalchitra/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ujwalchitra/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ujwalchitra/leetcode/tree/master/0735-asteroid-collision) |
+| [0740-delete-and-earn](https://github.com/ujwalchitra/leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/ujwalchitra/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/ujwalchitra/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ujwalchitra/leetcode/tree/master/0877-stone-game) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ujwalchitra/leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujwalchitra/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/ujwalchitra/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0740-delete-and-earn](https://github.com/ujwalchitra/leetcode/tree/master/0740-delete-and-earn) |
 | [0930-binary-subarrays-with-sum](https://github.com/ujwalchitra/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ujwalchitra/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ujwalchitra/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ujwalchitra/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ujwalchitra/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/ujwalchitra/leetcode/tree/master/0542-01-matrix) |
+| [0740-delete-and-earn](https://github.com/ujwalchitra/leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/ujwalchitra/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ujwalchitra/leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ujwalchitra/leetcode/tree/master/1137-n-th-tribonacci-number) |

@@ -1,27 +1,33 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        queue<pair<int, int>> q;
-        int n = matrix.size();
-        int m = matrix[0].size();
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
+        int m = matrix.size();
+        int n = matrix[0].size();
+        vector<pair<int, int>> v;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
                 if (matrix[i][j] == 0) {
-                    q.push({i, j});
+                    v.push_back({i, j});
                 }
             }
         }
-        while (!q.empty()) {
-            int i = q.front().first;
-            int j = q.front().second;
-            q.pop();
-            for (int a = 0; a < n; a++) {
-                matrix[a][j] = 0;
-            }
-            for (int a = 0; a < m; a++) {
-
-                matrix[i][a] = 0;
-            }
+        for (auto p : v) {
+            solve(p.first, 0, matrix, m, n);
+            dsolve(0, p.second, matrix, m, n);
         }
+    }
+    void solve(int i, int j, vector<vector<int>>& matrix, int m, int n) {
+        if (i >= m || j >= n) {
+            return;
+        }
+        matrix[i][j] = 0;
+        solve(i, j + 1, matrix, m, n);
+    }
+    void dsolve(int i, int j, vector<vector<int>>& matrix, int m, int n) {
+        if (i >= m || j >= n) {
+            return;
+        }
+        matrix[i][j] = 0;
+        dsolve(i + 1, j, matrix, m, n);
     }
 };

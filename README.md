@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ujwalchitra/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ujwalchitra/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ujwalchitra/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2140-solving-questions-with-brainpower](https://github.com/ujwalchitra/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ujwalchitra/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ujwalchitra/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/ujwalchitra/leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ujwalchitra/leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ujwalchitra/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ujwalchitra/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2140-solving-questions-with-brainpower](https://github.com/ujwalchitra/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 ## Memoization
 |  |
 | ------- |

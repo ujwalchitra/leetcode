@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/ujwalchitra/leetcode/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ujwalchitra/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/ujwalchitra/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ujwalchitra/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ujwalchitra/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ujwalchitra/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ujwalchitra/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujwalchitra/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/ujwalchitra/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/ujwalchitra/leetcode/tree/master/0905-sort-array-by-parity) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ujwalchitra/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/ujwalchitra/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ujwalchitra/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ujwalchitra/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ujwalchitra/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0905-sort-array-by-parity](https://github.com/ujwalchitra/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ujwalchitra/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ujwalchitra/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ujwalchitra/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ujwalchitra/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ujwalchitra/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ujwalchitra/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/ujwalchitra/leetcode/tree/master/0456-132-pattern) |
 | [0875-koko-eating-bananas](https://github.com/ujwalchitra/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ujwalchitra/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ujwalchitra/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ujwalchitra/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
